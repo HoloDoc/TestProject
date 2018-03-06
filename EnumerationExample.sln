@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationExample", "EnumerationExample\EnumerationExample.csproj", "{D9F41A0B-A0E8-4369-8D4D-1327A0E2DFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerationExampleTest", "EnumerationExampleTest\EnumerationExampleTest.csproj", "{59437653-93EF-4BA3-A225-5096565C2E71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9F41A0B-A0E8-4369-8D4D-1327A0E2DFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F41A0B-A0E8-4369-8D4D-1327A0E2DFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F41A0B-A0E8-4369-8D4D-1327A0E2DFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F41A0B-A0E8-4369-8D4D-1327A0E2DFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59437653-93EF-4BA3-A225-5096565C2E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59437653-93EF-4BA3-A225-5096565C2E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59437653-93EF-4BA3-A225-5096565C2E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59437653-93EF-4BA3-A225-5096565C2E71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
