@@ -66,7 +66,7 @@ namespace EnumerationExampleTest
         [TestMethod]
         public void ParsingEnumFromString()
         {
-            AgeConstant age = AgeConstant.Parse("Age19To30"); // Is generic ☺
+            AgeConstant age = AgeConstant.Parse("Age19To302"); // Is generic ☺
             //Age age = (Age) o;
             Assert.AreEqual(age, AgeConstant.Age19To30);
         }
