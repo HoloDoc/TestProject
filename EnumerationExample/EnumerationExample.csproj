@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Age.cs" />
+    <!--<Compile Include="Age.cs" />-->
     <Compile Include="AgeConstant.cs" />
     <Compile Include="AgeConstantsString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
