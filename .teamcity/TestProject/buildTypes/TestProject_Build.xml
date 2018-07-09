@@ -8,7 +8,7 @@
       <runner id="RUNNER_4" name="" type="VS.Solution">
         <parameters>
           <param name="build-file-path" value="EnumerationExample.sln" />
-          <param name="msbuild_version" value="12.0" />
+          <param name="msbuild_version" value="10.0" />
           <param name="targets" value="Rebuild" />
           <param name="teamcity.step.mode" value="default" />
           <param name="toolsVersion" value="12.0" />
