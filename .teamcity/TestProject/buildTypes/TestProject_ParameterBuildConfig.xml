@@ -10,7 +10,7 @@
       <runner id="RUNNER_3" name="" type="VS.Solution">
         <parameters>
           <param name="build-file-path" value="EnumerationExample.sln" />
-          <param name="msbuild.prop.Configuration" value="Release" />
+          <param name="msbuild.prop.Configuration" value="%system.configuration%" />
           <param name="msbuild_version" value="15.0" />
           <param name="run-platform" value="x86" />
           <param name="targets" value="Rebuild" />
