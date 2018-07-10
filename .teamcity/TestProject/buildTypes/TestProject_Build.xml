@@ -47,7 +47,7 @@
       </runner>
     </build-runners>
     <vcs-settings>
-      <vcs-entry-ref root-id="TestProject_HttpsGithubComHoloDocTestProjectRefsHeadsMaster" />
+      <vcs-entry-ref root-id="TestProject_Test" />
       <vcs-entry-ref root-id="TestProject_Test2" />
     </vcs-settings>
     <requirements />
