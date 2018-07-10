@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="bb821c7e-31b4-4560-a8af-06ed2c6a1297" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/2018.1/project-config.xsd">
+  <name>Test2</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/master" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="credentialsJSON:a584811e-e1af-4ff2-af89-0727620f04d8" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="url" value="https://bitbucket.xitaso.com/scm/mancpa/man-cpa.git" />
+  <param name="useAlternates" value="true" />
+  <param name="username" value="michael.wissner@xitaso.com" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
