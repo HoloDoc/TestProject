@@ -17,7 +17,7 @@
           <param name="vs.version" value="vs2017" />
         </parameters>
       </runner>
-      <runner id="RUNNER_2" name="New build step" type="VS.Solution">
+      <runner id="RUNNER_2" name="Test 2 Build" type="VS.Solution">
         <parameters>
           <param name="build-file-path" value="Test2/EnumerationExample.sln" />
           <param name="msbuild.prop.Configuration" value="Release" />
