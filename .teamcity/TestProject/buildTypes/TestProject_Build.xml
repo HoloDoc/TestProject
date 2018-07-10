@@ -7,7 +7,7 @@
     <build-runners>
       <runner id="RUNNER_4" name="" type="VS.Solution">
         <parameters>
-          <param name="build-file-path" value="EnumerationExample.sln" />
+          <param name="build-file-path" value="Test1/EnumerationExample.sln" />
           <param name="msbuild.prop.Configuration" value="Release" />
           <param name="msbuild_version" value="15.0" />
           <param name="run-platform" value="x86" />
