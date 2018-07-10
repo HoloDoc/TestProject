@@ -5,7 +5,7 @@
   <settings>
     <parameters />
     <build-runners>
-      <runner id="RUNNER_4" name="" type="VS.Solution">
+      <runner id="RUNNER_4" name="Test 1 Build" type="VS.Solution">
         <parameters>
           <param name="build-file-path" value="Test1/EnumerationExample.sln" />
           <param name="msbuild.prop.Configuration" value="Release" />
