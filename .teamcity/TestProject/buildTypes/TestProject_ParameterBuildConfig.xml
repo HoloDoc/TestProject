@@ -3,7 +3,9 @@
   <name>Parameter Build Config</name>
   <description />
   <settings>
-    <parameters />
+    <parameters>
+      <param name="system.configuration" value="Release" />
+    </parameters>
     <build-runners>
       <runner id="RUNNER_3" name="" type="VS.Solution">
         <parameters>
