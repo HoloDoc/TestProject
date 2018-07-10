@@ -52,7 +52,7 @@
           <param name="vstest_detect_team_city_logger" value="true" />
           <param name="vstest_engine" value="VSTest" />
           <param name="vstest_framework" value="default" />
-          <param name="vstest_include" value="EnumerationExampleTest\bin\Release\EnumerationExampleTest.dll" />
+          <param name="vstest_include" value="Test1\EnumerationExampleTest\bin\Release\EnumerationExampleTest.dll" />
           <param name="vstest_platform" value="x86" />
           <param name="vstest_runner_path" value="%teamcity.dotnet.vstest.15.0%" />
         </parameters>
