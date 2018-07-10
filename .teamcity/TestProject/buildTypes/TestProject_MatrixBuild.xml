@@ -4,7 +4,20 @@
   <description />
   <settings>
     <parameters />
-    <build-runners />
+    <build-runners>
+      <runner id="RUNNER_5" name="" type="matrix-build-runner">
+        <parameters>
+          <param name="build.type.id" value="bt3" />
+          <param name="matrix.parameters" value="configuration=Debug,Release" />
+          <param name="matrix.parameters.const" value="..." />
+          <param name="teamcity.server.password" value="admin" />
+          <param name="teamcity.server.url" value="%teamcity.serverUrl%" />
+          <param name="teamcity.server.username" value="admin" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="wait.builds.finish" value="true" />
+        </parameters>
+      </runner>
+    </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="TestProject_HttpsGithubComHoloDocTestProjectRefsHeadsMaster_2" />
     </vcs-settings>
