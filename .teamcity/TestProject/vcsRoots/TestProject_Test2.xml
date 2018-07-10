@@ -6,11 +6,11 @@
   <param name="authMethod" value="PASSWORD" />
   <param name="branch" value="refs/heads/master" />
   <param name="ignoreKnownHosts" value="true" />
-  <param name="secure:password" value="credentialsJSON:a584811e-e1af-4ff2-af89-0727620f04d8" />
+  <param name="secure:password" value="credentialsJSON:23d1ab37-37bc-45c9-8116-b0b1b3793e28" />
   <param name="submoduleCheckout" value="CHECKOUT" />
-  <param name="url" value="https://bitbucket.xitaso.com/scm/mancpa/man-cpa.git" />
+  <param name="url" value="https://github.com/HoloDoc/TestProject2" />
   <param name="useAlternates" value="true" />
-  <param name="username" value="michael.wissner@xitaso.com" />
+  <param name="username" value="HoloDoc" />
   <param name="usernameStyle" value="USERID" />
 </vcs-root>
 
