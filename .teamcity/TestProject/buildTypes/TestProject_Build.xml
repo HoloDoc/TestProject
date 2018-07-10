@@ -50,7 +50,9 @@
       <vcs-entry-ref root-id="TestProject_Test">
         <checkout-rule rule="+:.=&gt;Test1" />
       </vcs-entry-ref>
-      <vcs-entry-ref root-id="TestProject_Test2" />
+      <vcs-entry-ref root-id="TestProject_Test2">
+        <checkout-rule rule="+:.=&gt;Test2" />
+      </vcs-entry-ref>
     </vcs-settings>
     <requirements />
     <build-triggers>
