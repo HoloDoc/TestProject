@@ -4,7 +4,7 @@
   <description />
   <settings>
     <options>
-      <option name="artifactRules" value="Test1\EnumerationExample\bin\Release\EnumerationExample.dll =&gt; Artifact.zip" />
+      <option name="artifactRules" value="Test1\EnumerationExampleTest\bin\Release\EnumerationExampleTest.dll =&gt; Artifact.zip" />
     </options>
     <parameters />
     <build-runners>
