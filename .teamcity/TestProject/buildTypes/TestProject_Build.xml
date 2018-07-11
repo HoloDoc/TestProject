@@ -6,6 +6,9 @@
     <options>
       <option name="artifactRules" value="Test1\EnumerationExampleTest\bin\Release\EnumerationExampleTest.dll =&gt; Artifact.zip" />
     </options>
+    <disabled-settings>
+      <setting-ref ref="RUNNER_2" />
+    </disabled-settings>
     <parameters />
     <build-runners>
       <runner id="RUNNER_4" name="Test 1 Build" type="VS.Solution">
