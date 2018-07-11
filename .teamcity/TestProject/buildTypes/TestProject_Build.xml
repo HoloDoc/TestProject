@@ -3,6 +3,9 @@
   <name>Build</name>
   <description />
   <settings>
+    <options>
+      <option name="artifactRules" value="Test1\EnumerationExample\bin\Release\EnumerationExample.dll" />
+    </options>
     <parameters />
     <build-runners>
       <runner id="RUNNER_4" name="Test 1 Build" type="VS.Solution">
